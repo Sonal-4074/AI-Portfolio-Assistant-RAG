@@ -110,12 +110,15 @@ Steps:
 
 ### Document Processing Workflow
 
-![Workflow](screenshot/workflow1.png)
+![Workflow1](screenshot/workflow1.png)
+![Workflow2](screenshot/workflow2.png)
 
 
 ### Chatbot Output
 
-![Chatbot](screenshot/chat2.png)
+![Chatbot1](screenshot/chat1.png)
+![Chatbot2](screenshot/chat2.png)
+![Chatbot3](screenshot/chat3.png)
 
 
 ---
